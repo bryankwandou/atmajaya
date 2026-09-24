@@ -20,6 +20,15 @@ Diri. Skripsi akhirnya sama bentuknya untuk kedua jalur.
 | Ketua sidang | min. Lektor Kepala / IV-A / S-3 |
 | Pembimbing | anggota panitia **ex-officio, tidak ikut menguji** |
 
+Penetapan pembimbing (TA 1.3.2): oleh prodi, ditetapkan ketua prodi, dengan
+pertimbangan relevansi judul–keahlian, pemerataan bimbingan, dan asal judul (a–c).
+
+| Peran | Syarat minimal | Klausul |
+|---|---|---|
+| Pembimbing I (utama) | Lektor **atau** golongan IV-A **atau** S-2 | TA 1.3.2d |
+| Pembimbing II (pembantu) | Asisten Ahli **atau** S-2 | TA 1.3.2e |
+| Dosen luar biasa | boleh sebagai pembimbing pembantu, dengan persetujuan jurusan | TA 1.3.2f |
+
 ## §3 Jenis penelitian menentukan Bab III (TA 2.2)
 
 Tentukan ini sebelum menulis Bab III. Salah kategori merusak Bab III dan IV sekaligus.
